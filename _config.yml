@@ -1,6 +1,6 @@
 title: ancs
 baseurl: "ancs"
 description: Bienvenido a la página de documentación de nuestro proyecto.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
