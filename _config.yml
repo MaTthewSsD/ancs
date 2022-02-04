@@ -1,6 +1,6 @@
-title: Midnight theme
+title: ancs
 baseurl: "ancs"
-description: Midnight is a theme for GitHub Pages.
+description: Bienvenido a la página de documentación de nuestro proyecto.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
